@@ -1,0 +1,98 @@
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-overlay:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Change the opacity value as needed */
+}
+.image-overlay {
+  position: relative;
+  height: 100vh; /* Make sure the overlay container covers the entire viewport height */
+}
+
+.full-screen-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the image covers the entire container without distortion */
+}
+/* Add this CSS to your existing style.css */
+
+.image-overlay {
+  position: relative;
+  height: 100vh;
+}
+
+.full-screen-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 0 20px;
+}
+
+.hero-title {
+  font-size: 4rem;
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.hero-description {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btnPrimary {
+  /* Your button styles */
+}
+.delivery {
+  background-image: url("../assets//images/bg.jpg");
+}
+#contact {
+  background-image: url("../assets//images/white.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#cost {
+  background-image: url("../assets/images/shping.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

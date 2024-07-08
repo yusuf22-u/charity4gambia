@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
+body {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  background-color: whitesmoke;
+}
+
+.btnPrimary {
+  @apply py-3 px-8 bg-secondary font-semibold text-white rounded hover:bg-primary transition-all duration-300;
+}
+.btn {
+  background-color: rgb(94, 24, 24);
+}
+.head1 {
+  color: rgb(207, 96, 96);
+}
+.textshadow {
+  text-shadow: 0px 15px 5px rgba(0, 0, 0, 0.1),
+    10px 20px 5px rgba(0, 0, 0, 0.05), -10px 20px 5px rgba(0, 0, 0, 0.05);
+}

@@ -1,0 +1,27 @@
+#bighea,
+.text-up {
+  border-top-left-radius: 45px;
+}
+.ticket-wrapp {
+  /* left: -200px; */
+  border-top-left-radius: 45px;
+  /* background: transparent; */
+  border-radius: 19px;
+}
+.rate-text {
+  border-top-left-radius: 45px;
+  background: transparent;
+}
+
+.rate-text {
+  transform: translateX(100%);
+  animation: moving 20s linear infinite;
+}
+@keyframes moving {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
