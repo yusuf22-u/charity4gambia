@@ -11,7 +11,7 @@ i18n
       en: {
         translation: {
           welcome: "Welcome to our charity organization", // Add translation for the "hi" key
-          home: "Who are we? We are Gambians, family, and friends of Gambians, who aim to assist family members in The Gambia and Senegal at the lowest possible shipping costs. If you want to help wish to aid Gambians and Senegalese by sending charitable goods, you have come to the right place. There are no hidden costs, no profits, and no large expenses; just mutual assistance! We typically ship an average of one container per month, with the date always announced! With more deliveries, we can increase the number of containers shipped per month. Would you like to send your goods to The Gambia quickly, efficiently, and at realistic shipping costs? Please contact us via email: charity4gambia.nl@gmail.com or by phone at +31 622832113 Charity4Gambia is an officially registered foundation for sending charitable goods. Chamber of Commerce number is 94209081",
+          home: "Who are we? We are Gambians, family, and friends of Gambians, who aim to assist family members in The Gambia and Senegal at the lowest possible shipping costs. If you want to help wish to aid Gambians and Senegalese by sending charitable goods, you have come to the right place. There are no hidden costs, no profits, and no large expenses; just mutual assistance! We typically ship an average of one container per month, with the date always announced! With more deliveries, we can increase the number of containers shipped per month. Would you like to send your goods to The Gambia quickly, efficiently, and at realistic shipping costs? Please contact us via email: charity4gambia@hotmail.com or by phone at +31 622832113 Charity4Gambia is an officially registered foundation for sending charitable goods. Chamber of Commerce number is 94209081",
           btn1: "Contact Us",
           btn2: "About Us",
           // about content
@@ -27,7 +27,7 @@ i18n
           // delivery section
           customernumber: "Customer Number",
           customerText:
-            "To ship goods, you'll need a customer number. Simply request one by emailing us at charity4gambia.nl@gmail.com. Please include your name, address, postcode, place of residence, and mobile phone number in your email. Upon receipt, we'll promptly send you an email containing your customer number, packing list, and additional information.",
+            "To ship goods, you'll need a customer number. Simply request one by emailing us at charity4gambia@hotmail.com. Please include your name, address, postcode, place of residence, and mobile phone number in your email. Upon receipt, we'll promptly send you an email containing your customer number, packing list, and additional information.",
           delihollad: "Delivery in the Netherlands",
           delitext:
             " Charity4Gambia operates a warehouse in Bergeijk, North Brabant. You can deliver goods at the following times:",
@@ -66,10 +66,10 @@ i18n
           mainHeading: "Shipping costs",
           standardHeading: "Standard shipping",
           standardText:
-            "Charity4Gambia strives to maintain low shipping costs to make shipping accessible for everyone. The standard shipping cost is 125 euros per cubic meter (m3).",
+            "Charity4Gambia strives to maintain low shipping costs to make shipping accessible for everyone. The standard shipping cost is 135 euros per cubic meter (m3).",
           shipingCostHeading: " Shipping costs for Boxes",
           shipingCostText:
-            "For a normal closed banana box (25x40x50 cm, max. 20 kilos), the shipping cost is 6,25 euros!Boxes and goods of varying sizes will be measured and calculated upon delivery. You can further reduce shipping costs by ensuring compact delivery.The shipping costs are 125 euros a m3 ",
+            "For a normal closed banana box (25x40x50 cm, max. 20 kilos), the shipping cost is 6,75 euros!Boxes and goods of varying sizes will be measured and calculated upon delivery. You can further reduce shipping costs by ensuring compact delivery.The shipping costs are 135 euros a m3 ",
           homePicking: "Home pickup service",
           homePickingText:
             "We offer a pickup service upon consultation. When we collect goods from you, we charge you additional pickup costs. While pickup incurs additional costs, the shipping costs remain the same as for delivered goods. No hidden or increased charges!",
@@ -219,7 +219,7 @@ i18n
       nl: {
         translation: {
           welcome: "Welkom bij onze liefdadigheidsorganisatie",
-          home: "Wie zijn wij? Wij zijn Gambianen, familie en vrienden van Gambianen, en willen  tegen zo laag mogelijke verzendkosten familieleden in Gambia en Senegal helpen. Wie Gambianen en Senegalezen wil helpen door hulpgoederen te verzenden is bij ons aan het juiste adres. Geen verborgen kosten, geen winst, geen grote uitgaven, gewoon elkaar helpen! Wij verschepen gemiddeld 1 container per maand, de datum wordt altijd bekend gemaakt! Bij veel aanleveringen kunnen we meer containers per maand verschepen. Wil je snel, op nette manier, tegen reële verzendkosten je goederen verzenden naar Gambia? Neem dan contact op met ons op via email: charity4gambia.nl@gmail.com of via telefoonnummer: +31 622832113 Charity4Gambia is een officieel geregistreerde stichting voor verzenden van hulpgoederen KvK-nummer: 94209081",
+          home: "Wie zijn wij? Wij zijn Gambianen, familie en vrienden van Gambianen, en willen  tegen zo laag mogelijke verzendkosten familieleden in Gambia en Senegal helpen. Wie Gambianen en Senegalezen wil helpen door hulpgoederen te verzenden is bij ons aan het juiste adres. Geen verborgen kosten, geen winst, geen grote uitgaven, gewoon elkaar helpen! Wij verschepen gemiddeld 1 container per maand, de datum wordt altijd bekend gemaakt! Bij veel aanleveringen kunnen we meer containers per maand verschepen. Wil je snel, op nette manier, tegen reële verzendkosten je goederen verzenden naar Gambia? Neem dan contact op met ons op via email: charity4gambia@hotmail.com of via telefoonnummer: +31 622832113 Charity4Gambia is een officieel geregistreerde stichting voor verzenden van hulpgoederen KvK-nummer: 94209081",
           btn1: "Contact met ons ",
           btn2: "Wie zijn wij?",
           // about content
@@ -234,7 +234,7 @@ i18n
           visionh1: "Onze visie",
           customernumber: "Klantnummer ",
           customerText:
-            " Om goederen te kunnen verzenden heeft u een klantnummer nodig. Een klantnummer kunt u aanvragen door een email te sturen naar: charity4gambia.nl@gmail.com. Wij vragen u om uw naam, adres, postcode, woonplaats, gsm-nummer door te geven via de e-mail. Na ontvangst sturen wij u een e-mail met klantnummer, paklijst en informatie.",
+            " Om goederen te kunnen verzenden heeft u een klantnummer nodig. Een klantnummer kunt u aanvragen door een email te sturen naar: charity4gambia@hotmail.com. Wij vragen u om uw naam, adres, postcode, woonplaats, gsm-nummer door te geven via de e-mail. Na ontvangst sturen wij u een e-mail met klantnummer, paklijst en informatie.",
           delihollad: "Aanleveren in Nederland",
           delitext:
             "Charity4Gambia heeft een magazijn/loods in Bergeijk (Noord-Brabant). U kunt goederen aanleveren: ",
@@ -273,10 +273,10 @@ i18n
           mainHeading: "Verzendkosten",
           standardHeading: "Verzendkosten",
           standardText:
-            "Charity4Gambia houdt de kosten laag zodat verzenden voor iedereen mogelijk is. De verzendkosten bedragen 125 euro per m3.",
+            "Charity4Gambia houdt de kosten laag zodat verzenden voor iedereen mogelijk is. De verzendkosten bedragen 135 euro per m3.",
           shipingCostHeading: "Verzendkosten voor Dozen",
           shipingCostText:
-            "Voor een normaal gesloten bananendoos (25x40x50 cm, max. 20 kilo) is dit 6,25 euro! dozen en goederen met afwijkende maten zullen worden opgemeten en berekend bij aflevering van uw goederen. U kunt zelf ook de verzendkosten laag te houden door compact aan te leveren! de verzendkosten bedragen 125  euro per m3.",
+            "Voor een normaal gesloten bananendoos (25x40x50 cm, max. 20 kilo) is dit 6,75 euro! dozen en goederen met afwijkende maten zullen worden opgemeten en berekend bij aflevering van uw goederen. U kunt zelf ook de verzendkosten laag te houden door compact aan te leveren! de verzendkosten bedragen 135  euro per m3.",
           homePicking: "Thuis ophalen van goederen",
           homePickingText:
             "In overleg kunnen we goederen bij u ophalen. Wanneer we goederen ophalen bij u, berekenen we ophaalkosten, maar de verzendkosten van de goederen blijven te allen tijde gelijk aan de verzendkosten van de aangeleverde goederen. Geen verborgen kosten, geen verhoogde verzendkosten.",

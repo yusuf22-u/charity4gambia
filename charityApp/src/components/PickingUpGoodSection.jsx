@@ -50,7 +50,7 @@ const PickingUpGoodsSection = ({ t }) => {
             </li>
             <li className="p-4 bg-white rounded-lg shadow-lg flex items-center justify-center">
               <MdOutlineMail className="text-3xl mr-2" />
-              <span>charity4gambia.nl@gmail.com</span>
+              <span>charity4gambia@hotmail.com</span>
             </li>
             <li className="p-4 bg-white rounded-lg shadow-lg flex items-center justify-center">
               <FaWhatsapp className="text-3xl text-green-500 mr-2" />

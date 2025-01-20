@@ -80,9 +80,9 @@ function Navbar({ t }) {
           </div>
           {/* language and sign up */}
           <div className="space-x-12 hidden md:flex items-center">
-            <a href="/" className="lg:flex items-center hover:text-secondary">
+            {/* <a href="/" className="lg:flex items-center hover:text-secondary">
               <BsGlobe2 className="mr-2 " /> <span>{t("language")}</span>
-            </a>
+            </a> */}
             {/* Include LanguageSwitcher component */}
             <LanguageSwitcher />
           </div>

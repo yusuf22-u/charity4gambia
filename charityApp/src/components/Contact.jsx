@@ -37,7 +37,7 @@ const Contact = ({ t }) => {
             <div className="flex items-center mb-4">
               <FaEnvelope className="text-gray-600 mr-3" />
               <p className="text-lg text-gray-800">
-                {t("Email")}: charity4gambia.nl@gmail.com
+                {t("Email")}:charity4gambia@hotmail.com
               </p>
             </div>
             <div className="flex items-center mb-4">
